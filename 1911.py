@@ -32,9 +32,4 @@ while i!=0:
                             if c>1:
                                 final = 1
                                 break
-    if break
-        print(2)
-    else:
-        print(1)
-    
                  
